@@ -1,7 +1,7 @@
 # AT3_group11
 **Assessment 3 - Group Project**
 
-**The Brief: **
+**The Brief:**
 
 A bank has hired you as their first data scientists. They have been collecting transactional data from their customers for the last 3 years. 
 
