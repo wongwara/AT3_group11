@@ -1,25 +1,20 @@
 # AT3_group11
-**Assessment 3 - Group Project**
 
-**The Brief:**
+There are 4 main objectives for our project:
+1. Experiment A: Better decision making- Client Financial management: Help clients organise their budget by predicting their spending for the next month. This will help improve financial stability and overall pleasure.
+2. Experiment B: Prevention of fraud - Help the compliance team identify and stop fraudulent behaviour. This will protect our financial stability and keep our client's faith intact.
+3. Experiment C: Improved customer experience - Assist the sales and marketing teams in maximising their participation and enjoyment for clients likely to raise their expenditure in the next three months. By focusing our marketing strategies and offers on these potential high-value clients.
+4. Experiment D: Better risk management - Discover abnormal spending patterns: Help us reach out to consumers proactively, providing customised advice and assistance in resolving any potential problems or financial challenges they may face.
 
-A bank has hired you as their first data scientists. They have been collecting transactional data from their customers for the last 3 years. 
-
-They are not well versed in Data Science nor Machine Learning. Your team has been tasked to explore existing datasets and propose machine learning use cases that will bring value directly  to the business or the end customers.
-
-Each member of your team has to define a business problem from the shared datasets, train relevant Machine Learning algorithms and showcase results achieved. You have to provide at least one use case for each type of the following data mining problem:
-
-* Regression analysis
-* Classification analysis
-* Unsupervised learning such as clustering, anomaly detection, etc
-
-Here are some examples of potential use cases:
-
-* Helping customers to better budget their finances by predicting their total spending amount for the next month
-* Helping Compliance Team to identify fraudulent behavior by predicting if a transaction is a fraud or not
-* Helping Sales Team to target customers most likely to have a significant increase in spending in the next 3 months
-* Helping Marketing Team to send customized marketing emails to groups of customers presenting similar spending behaviors 
-* Helping Customer Support team to reach out to customers with abnormal behaviors from their usual spending patterns
+## Project Structure
+```
+├── README.md              <- read me
+├── data_prep.ipyny        <- file to merge all the data
+├── eda.ipyny              <- file for sample of eda
+├── Experient A - Client Financial management.ipynb <- Jupyter notebooks for experiment A
+├── anamoly detection (1.0).ipynb <- Jupyter notebooks for experiment D
+├── summary.docx           <- summary of the code for experiment D
+```
 
 **Submission Requirements:** 
 
