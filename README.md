@@ -1,12 +1,14 @@
 ## Introduction
-As bank data scientists, we employ machine learning to analyse the huge amount of data available in banking. This data includes transaction history, client information, and meaningful financial information. We can swiftly process and evaluate this massive amount of data by leveraging machine learning algorithms' capabilities, detecting anomalies, and making accurate forecasts.
+As bank data scientists, we employ machine learning to analyse the huge amount of data available in banking. This data includes transaction history, client information, and meaningful financial information. 
+
+We can swiftly process and evaluate this massive amount of data by leveraging machine learning algorithms' capabilities, detecting anomalies, and making accurate forecasts.
 
 ## Project Objective
 There are 4 main objectives for our project:
-1. `Case A`: Better decision making- Client financial management: Assist customers in organising their spending plans by forecasting their monthly expenses. This will increase overall happiness and financial security.
-2. `Case B`: Prevention of fraud - Aid the compliance staff in identifying and eliminating fraudulent activity. This will safeguard our financial stability and maintain the trust of our clients.
-3. `Case C`: Improved customer experience - Help the sales and marketing teams increase customer engagement and satisfaction for clients who are likely to increase their spending over the following three months. By concentrating our marketing efforts on these potential high-value customers.
-4. `Case D`: Better risk management - Find out unusual spending patterns: Assist us in proactively contacting consumers to offer specialised advise and aid in resolving any possible issues or financial troubles they may be facing.
+1. `Case A`: **Better decision making**- Client financial management: Assist customers in organising their spending plans by forecasting their monthly expenses. This will increase overall happiness and financial security.
+2. `Case B`: **Prevention of fraud** - Aid the compliance staff in identifying and eliminating fraudulent activity. This will safeguard our financial stability and maintain the trust of our clients.
+3. `Case C`: **Improved customer experience** - Help the sales and marketing teams increase customer engagement and satisfaction for clients who are likely to increase their spending over the following three months. By concentrating our marketing efforts on these potential high-value customers.
+4. `Case D`: **Better risk management** - Find out unusual spending patterns: Assist us in proactively contacting consumers to offer specialised advise and aid in resolving any possible issues or financial troubles they may be facing.
 
 ## Project Structure
 ```
